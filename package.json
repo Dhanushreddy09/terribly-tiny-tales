@@ -1,0 +1,21 @@
+{
+  "name": "roll_number_problem",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "vue": "^3.0.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.1.4",
+    "@vue/compiler-sfc": "^3.0.5",
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.8",
+    "tailwindcss": "^2.0.3",
+    "vite": "^2.0.0-beta.70"
+  }
+}
