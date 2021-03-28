@@ -69,13 +69,13 @@ this.result=res.data
 ## Use cases
  ### 1. Valid User Input
 
- ![valid-user-input](src\assets\terribly1.PNG)
+ ![valid-user-input](https://i.imgur.com/8xtTZky.png)
  ### 2. Invalid User Input
- ![invalid-user-input](src\assets\terribly2.PNG)
+ ![invalid-user-input](https://i.imgur.com/KndDP1U.png)
  ### 3. Successfull retrieval of data
- ![succesfull-retrieval](src\assets\terribly3.PNG)
+ ![succesfull-retrieval](https://i.imgur.com/6WNtgll.png)
 ## Demo
-![Demo](src\assets\Demo.gif)
+![Demo](https://s4.gifyu.com/images/Demo.md.gif)
 ## Technology Stack
 - [Vite](https://vitejs.dev/)
 - [Vue js](https://v3.vuejs.org/)
