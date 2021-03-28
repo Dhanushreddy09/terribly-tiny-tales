@@ -16,7 +16,7 @@
   </div>
   </div>
   <div class="container d-flex justify-content-center">
-  <img src="../assets/spinner.svg" class="mx-auto" v-if="loading"/>
+  <img src="../assets/Spinner.svg" class="mx-auto" v-if="loading"/>
   </div>
   <div class="container mt-5">
   <table v-if="show" class="table table-dark table-bordered">
