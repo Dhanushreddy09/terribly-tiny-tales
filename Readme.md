@@ -75,7 +75,7 @@ this.result=res.data
  ### 3. Successfull retrieval of data
  ![succesfull-retrieval](https://i.imgur.com/6WNtgll.png)
 ## Demo
-![Demo](https://s4.gifyu.com/images/Demo.md.gif)
+![Demo](https://media.giphy.com/media/ztP6uEUHY87Pb2QbsV/giphy.gif)
 ## Technology Stack
 - [Vite](https://vitejs.dev/)
 - [Vue js](https://v3.vuejs.org/)
