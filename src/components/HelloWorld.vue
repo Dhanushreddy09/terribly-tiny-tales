@@ -6,8 +6,10 @@
   </div>
 <div class="card-body">
 <div class="form-group">
-  <input type="text" class="form form-control form-control-lg" placeholder="Enter roll numbers" name="rollnumbers" v-model="roll_numbers"/>
-  <div v-if="error" class="sep"></div><div class="text-danger px-2" v-if="error">Please Enter roll numbers seperated by a comma<div class="sep"></div></div>
+  <input type="text" class="form form-control form-control-lg" placeholder="Enter roll numbers" 
+  name="rollnumbers" v-model="roll_numbers"/>
+  <div v-if="error" class="sep"></div><div class="text-danger px-2" 
+  v-if="error">Please Enter roll numbers seperated by a comma<div class="sep"></div></div>
   </div>
   <input type="submit" class="btn btn-block btn-success" value="submit" @click="validate"/>
   </div>
@@ -54,7 +56,6 @@ export default{
          this.result=res.data
           this.show=true
           this.loading=false
-          this.roll_numbers=''
         }
       )
       }
